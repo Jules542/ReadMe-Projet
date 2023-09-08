@@ -32,6 +32,6 @@ Les élèves sont Roger, Sylvain et Bertrand.
     -Enregistrer les informations de l'utilisateur dans la base de données lors de la création de son compte
 
 3. Interface de modification du mot de passe
-    -Demander à l'utilisateur de saisir son ancien mot de passe
-    -Vérifier si son nouveau mot de passe respecte les règles de sécurité
-    -Créer une option dans le cas où l'utilisateur a oublié son mot de passe
+    - Demander à l'utilisateur de saisir son ancien mot de passe
+    - Vérifier si son nouveau mot de passe respecte les règles de sécurité
+    - Créer une option dans le cas où l'utilisateur a oublié son mot de passe
