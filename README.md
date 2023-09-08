@@ -35,3 +35,21 @@ Les élèves sont Roger, Sylvain et Bertrand.
     - Demander à l'utilisateur de saisir son ancien mot de passe
     - Vérifier si son nouveau mot de passe respecte les règles de sécurité
     - Créer une option dans le cas où l'utilisateur a oublié son mot de passe
+
+
+
+## Technologies
+
+**Lien vers le projet initial (à modifier) : [Projet](https://google.com).**
+
+
+
+## Comment contribuer
+
+Les élèves travaillent et mettent en commun leur travail sur ***GitKraken***.
+
+
+
+## Crédits
+
+Les projets ressemblant à celui-ci sont l'AP Repas, et l'AP Digicode. Les élèves peuvent s'appuyer sur ces projets pour s'aider.
