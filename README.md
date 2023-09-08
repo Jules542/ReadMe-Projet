@@ -5,6 +5,7 @@
 ## Informations Générales
 
 Le Projet concerne une ***application web*** en ***php***.
+Il doit être réalisé en 3 séances.
 
 
 
@@ -16,4 +17,4 @@ Il faut installer le projet et une base de données puis les modifier selon les 
 
 ## Auteurs
 
-Élèves de 2ème année de BTS SIO de l'établissement Saint-Adjutor.
+Les élèves sont Roger, Sylvain et Bertrand.
