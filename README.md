@@ -1,5 +1,7 @@
 # ReadMe Projet
 
+![Image du projet](https://www.digitalschool.paris/sites/default/files/gestion-projet-informatique.jpg)
+
 ## Informations Générales
 
 Le Projet concerne une ***application web*** en ***php***.
