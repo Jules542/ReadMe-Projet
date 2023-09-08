@@ -40,4 +40,16 @@ Les élèves sont Roger, Sylvain et Bertrand.
 
 ## Technologies
 
-Lien vers le projet initial (à modifier) : [Projet](https://google.com).
+**Lien vers le projet initial (à modifier) : [Projet](https://google.com).**
+
+
+
+## Comment contribuer
+
+Les élèves travaillent et mettent en commun leur travail sur ***GitKraken***.
+
+
+
+## Crédits
+
+Les projets ressemblant à celui-ci sont l'AP Repas, et l'AP Digicode. Les élèves peuvent s'appuyer sur ces projets pour s'aider.
