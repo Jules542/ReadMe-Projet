@@ -35,3 +35,9 @@ Les élèves sont Roger, Sylvain et Bertrand.
     - Demander à l'utilisateur de saisir son ancien mot de passe
     - Vérifier si son nouveau mot de passe respecte les règles de sécurité
     - Créer une option dans le cas où l'utilisateur a oublié son mot de passe
+
+
+
+## Technologies
+
+Lien vers le projet initial (à modifier) : [Projet](https://google.com).
